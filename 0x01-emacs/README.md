@@ -1,0 +1,1 @@
+In this proyect we're going to go through basic commands to open, save a file, cut an entire line, paste, search, undo and quit on Emacs
